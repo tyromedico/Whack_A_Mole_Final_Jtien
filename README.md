@@ -159,7 +159,7 @@ setDelay("hard") //> Returns 856 (returns a random number between 600 and 1200).
 ```
 **Hint:** Study the _Control flow_ lesson if you need to review `if`/`else` statements.
 
-#### 3. `chooseHole(holes)`
+#### 3. `chooseHole(holes)` X
  Implement the `chooseHole(holes)` function. This function should select a random hole from the list of holes that you defined. When you call the function, you should make sure that it doesn't return the last hole.
  
  ```js
